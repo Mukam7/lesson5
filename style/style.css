@@ -3,9 +3,6 @@
     padding: 0;
     box-sizing: border-box; 
 }
-body{
-    border: 100px solid #E5E5E5;
-}
 .container{
     width: 1200px;
     margin-top: 101;
